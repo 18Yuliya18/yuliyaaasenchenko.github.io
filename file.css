@@ -1,0 +1,42 @@
+table{
+  background-color: blue;
+}
+.indexx
+{
+  background-color: #c0c0c0;
+}
+.aaa
+{
+  border-style:dotted;
+  border-color: blue;
+border-top-style: dotted;
+border-width: 10px;
+ width: 10px;
+ height: 10px;
+}
+.a{
+  border-style: dashed;
+   border-color:#ff0000;
+    border-width:5px;
+}
+a:hover
+{
+  font-size: 50px;
+}
+.s{
+  width: 360px;
+  border-style:ridge;
+  border-color: #ff0000;
+  border-width:thick;
+}
+.c{
+  border-style:none;
+  background-color: #ff0000;
+  height: 1px;
+}
+.b{
+  text-shadow: 5px 5px 5px grey;
+}
+#g {
+  color:red;
+}
